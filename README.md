@@ -12,7 +12,7 @@ Takım Flutter 3
 - Aymila Cevher: Scrum Master / Developer
 - Alper Açıkgöz: Developer
 - Ali Suntur: Developer
-- Atıf Eren Yarıkan: Developer
+- Atıf Eren Yarıkan: Product Owner / Developer
 
 ## Ürün İsmi
 
