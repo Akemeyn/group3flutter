@@ -1,7 +1,7 @@
 
 # Takım İsmi
 
-Takım Flutter 3
+Team A (A Takımı)
 
 
 # Ürün İle İlgili Bilgiler
