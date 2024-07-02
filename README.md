@@ -28,11 +28,24 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 ## Ürün Özellikleri
 
-- Daha belirlenmedi
-- Daha belirlenmedi
-- Daha belirlenmedi
-- Daha belirlenmedi
-- Daha belirlenmedi
+- İçerik Okuma ve Puanlama
+1. Barkod Okuma ve Veri Girişi: Barkod okuma veya doğrudan veri girişi yoluyla içerik 2. bilgisi edinme.
+2. Profilsiz Erişim: Kullanıcılar profil oluşturmadan uygulamayı kullanabilir.
+3. Gelecekte Gelişim: Gelecekte görüntü işleme ile daha da geliştirilmesi planlanmakta.
+
+- Yapay Zeka Destekli Diyet Listesi
+1. Diyet Listesi Oluşturma: Kullanıcılara özel diyet listeleri oluşturma.
+2. Alternatif Malzemeler: Tariflerdeki malzemelerin alternatiflerini sunma.
+
+- Kullanıcı Profil Oluşturma
+1. Takip Özellikleri: Su tüketimi, sağlık durumu ve adım sayısı takibi.
+2. Entegrasyon: Giyilebilir sağlık cihazlarıyla entegrasyon (Gelecek planları içerisinde).
+3. Sağlık Puanı Sistemi: Günlük, haftalık ve aylık en iyi performans gösterenleri ödüllendirme.
+4. Sosyal Paylaşım: Başarıların sosyal medyada paylaşılabilmesi.
+
+- Kullanıcı Tarifi Ekleme
+1. Tarif Ekleme: Kullanıcıların kendi tariflerini uygulamaya ekleyebilmesi.
+2. Çeşitlilik: Tarif çeşitliliği ve zengin içerik oluşturma.
 
 ## Hedef Kitle
 
