@@ -20,11 +20,11 @@
 
 ## Ürün İsmi
 
-Daha belirlenmedi
+### **`NutriJourney`**
 
 ## Ürün Açıklaması
 
-- Daha belirlenmedi
+NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını desteklemek için tasarlanmış kapsamlı bir mobil uygulamadır. Barkod okuma veya doğrudan veri girişi yoluyla içerik okuma ve puanlama işlevi sunarak, kullanıcılara iyi bir deneyim sunar. Yapay zeka desteğiyle, kullanıcılar diyet listeleri oluşturabilir ve tariflerdeki malzemelerin alternatiflerini seçebilirler. Kullanıcılar su tüketimlerini, sağlık durumlarını ve adım sayılarını takip edebilir. Ayrıca kullanıcılar kendi tariflerini ekleyebilir, böylece uygulama içinde daha zengin ve çeşitli içerikler oluşturulabilir. NutriJourney kullanıcılarının sağlığını önemseyerek, onların sağlıklı yaşam hedeflerine ulaşmaları için her türlü desteği sunan kapsamlı bir uygulamadır.
 
 ## Ürün Özellikleri
 
