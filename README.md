@@ -37,7 +37,7 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 1. Diyet Listesi Oluşturma: Kullanıcılara özel diyet listeleri oluşturma.
 2. Alternatif Malzemeler: Tariflerdeki malzemelerin alternatiflerini sunma.
 
-- Kullanıcı Profil Oluşturma
+- Kullanıcı Profili Sistemi
 1. Takip Özellikleri: Su tüketimi, sağlık durumu ve adım sayısı takibi.
 2. Entegrasyon: Giyilebilir sağlık cihazlarıyla entegrasyon (Gelecek planları içerisinde).
 3. Sağlık Puanı Sistemi: Günlük, haftalık ve aylık en iyi performans gösterenleri ödüllendirme.
