@@ -8,13 +8,18 @@
 
 # Ürün İle İlgili Bilgiler
 
-## Takım Rolleri
 
-- Ayça Soyubelli: Scrum Master / Developer
-- Aymila Cevher: Scrum Master / Developer
-- Alper Açıkgöz: Developer
-- Ali Suntur: Developer
-- Atıf Eren Yarıkan: Product Owner / Developer
+## Takım Üyeleri
+
+
+|  | İsim     | Rol                       | Sosyal Araçlar|
+| :- | :- | :- | :- |
+| | `Atıf Eren Yarıkan` | Product Owner / Developer | |
+| | `Ayça Soyubelli` | Scrum Master | |
+| | `Aymilla Cevher` | Scrum Master | |
+| | `Alper Açıkgöz` | Developer | |
+| | `Ali Suntur` | Developer | |
+
 
 ## Ürün İsmi
 
