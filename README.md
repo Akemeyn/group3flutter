@@ -1,3 +1,5 @@
+![NutriJourney](https://github.com/Akemeyn/group3flutter/blob/main/appFiles/readmeImages/nutrijourney.png)
+
 
 # Takım İsmi
 
