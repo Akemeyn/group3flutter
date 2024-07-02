@@ -15,8 +15,8 @@
 |  | İsim     | Rol                       | Sosyal Araçlar|
 | :- | :- | :- | :- |
 | | `Atıf Eren Yarıkan` | Product Owner / Developer | |
-| | `Ayça Soyubelli` | Scrum Master | |
-| | `Aymilla Cevher` | Scrum Master | |
+| | `Ayça Soyubelli` | Scrum Master / Developer | |
+| | `Aymilla Cevher` | Scrum Master / Developer | |
 | | `Alper Açıkgöz` | Developer | |
 | | `Ali Suntur` | Developer | |
 
