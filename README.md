@@ -1,7 +1,7 @@
 
 # Takım İsmi
 
-Team A (A Takımı)
+### **`Team A`**
 
 
 # Ürün İle İlgili Bilgiler
