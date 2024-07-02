@@ -5,10 +5,6 @@
 
 ### **`Team A`**
 
-
-# Ürün İle İlgili Bilgiler
-
-
 ## Takım Üyeleri
 
 
@@ -20,6 +16,7 @@
 | | `Alper Açıkgöz` | Developer | |
 | | `Ali Suntur` | Developer | |
 
+# Ürün İle İlgili Bilgiler
 
 ## Ürün İsmi
 
