@@ -47,8 +47,8 @@
       <td>Ali Suntur</td>
       <td>Developer</td>
       <td>
-        <a href="" target="_blank"><img src="https://github.com/Akemeyn/group3flutter/assets/92996934/74277e14-b01f-4cab-a164-318897a0631e" width="20" height="20"/></a>
-        <a href="" target="_blank"><img src="https://github.com/Akemeyn/group3flutter/assets/92996934/83af638d-5c70-4261-bc35-fc19c278824f" width="20" height="20" /></a>
+        <a href="https://www.linkedin.com/in/alisuntur/" target="_blank"><img src="https://github.com/Akemeyn/group3flutter/assets/92996934/74277e14-b01f-4cab-a164-318897a0631e" width="20" height="20"/></a>
+        <a href="https://github.com/alisuntur" target="_blank"><img src="https://github.com/Akemeyn/group3flutter/assets/92996934/83af638d-5c70-4261-bc35-fc19c278824f" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
