@@ -133,6 +133,8 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 <details> <summary><h3>Sprint 1 - Sprint Puanlaması </h3></summary>
     
 + <b>Görevin alacağı her 1 gün için 10 puan atamaya karar verildi.</b>
++ <b>Bu sprinte hedef olarak `250` puan koyduk. </b>
++ <b>Bu sprint toplam `265` puan topladık ve hedefimize başarıyla ulaştık. </b>
 
 </details>
 
