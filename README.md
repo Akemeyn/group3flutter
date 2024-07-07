@@ -23,7 +23,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="[appFiles/ourPhotos/aymilaPhoto.jpg](https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/atifPhoto.jpg)" width="50" height="50" /></td>
+      <td><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/aymilaPhoto.jpg" width="50" height="50" /></td>
       <td>Aymila Cevher</td>
       <td>Scrum Master</td>
       <td>
@@ -32,7 +32,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="appFiles/ourPhotos/atifPhoto.jpg" width="50" height="50" /></td>
+      <td><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/atifPhoto.jpg" width="50" height="50" /></td>
       <td>Atıf Eren Yarıkan</td>
       <td>Product Owner</td>
       <td>
@@ -50,7 +50,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="appFiles/ourPhotos/alperPhoto.jpg" width="50" height="50" /></td>
+      <td><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/alperPhoto.jpg" width="50" height="50" /></td>
       <td>Alper Açıkgöz</td>
       <td>Developer</td>
       <td>
