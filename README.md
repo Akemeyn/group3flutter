@@ -50,7 +50,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="" width="50" height="50" /></td>
+      <td><img src="appFiles/ourPhotos/alperPhoto.jpg" width="50" height="50" /></td>
       <td>Alper Açıkgöz</td>
       <td>Developer</td>
       <td>
