@@ -49,7 +49,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/alperPhoto.jpg" width="50" height="50" /></td>
+      <td><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/alperFoto.png" width="50" height="50" /></td>
       <td>Alper Açıkgöz</td>
       <td>Developer</td>
       <td>
