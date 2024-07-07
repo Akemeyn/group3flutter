@@ -115,7 +115,7 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 + <b>Tasarım aracı olarak `Figma` kullanılmaya karar verildi.</b>
 + <b>Veritabanı için `Firebase` kullanılmaya karar verildi.</b>
 + <b>Page routing için `GetX` kullanılmaya karar verildi.</b>
-+ <b>State management için `Block` ve `GetX` kullanılmaya karar verildi.</b>
++ <b>State management için `Bloc` ve `GetX` kullanılmaya karar verildi.</b>
 + <b>Kullanıcı girişi `kullanıcı adı` yöntemi ile gerçekleşecek.</b>
 + <b>Figma’dan sağlıklı yaşam uygulaması tasarımı seçildi.</b>
 + <b>Logo ve `NutriMate` tasarımı yapıldı – elma logosuna karar verildi.</b>
