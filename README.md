@@ -103,8 +103,8 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 ## Product Backlog URL
 
-<details>
-  <summary><h1>Sprint 1</h1></summary>
+<details> 
+    <summary><h1>Sprint 1</h1></summary>
 
 
 ### Sprint Notları
@@ -120,14 +120,15 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 + <b>Logo ve `NutriMate` tasarımı yapıldı – elma logosuna karar verildi.</b>
 
 <details> <summary><h3>Sprint 1 - Uygulama Ekran Görüntüleri</h3></summary>
-![appSS](https://github.com/Akemeyn/group3flutter/assets/92996934/0bbd687e-c560-412f-a08c-d3816191ef8a)
+    <img src="https://github.com/Akemeyn/group3flutter/assets/92996934/0bbd687e-c560-412f-a08c-d3816191ef8a">
+
     
 </details>
 
 <details> <summary><h3>Sprint 1 - Sprint Tahtası</h3></summary>
-    ![sprintBoard](https://github.com/Akemeyn/group3flutter/assets/92996934/30f04ba1-44d7-4b3c-ab61-31c757f8f049)
+    <img src="https://github.com/Akemeyn/group3flutter/assets/92996934/30f04ba1-44d7-4b3c-ab61-31c757f8f049">
 
-    
+
 </details>
 
 ### Sprint Yorumları
@@ -137,6 +138,7 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 ### Sprint Retroprospektifi
 
 </details>
+
 ---
 
 <details>
