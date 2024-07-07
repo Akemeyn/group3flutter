@@ -23,7 +23,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="appFiles/ourPhotos/aymilaPhoto.jpg" width="50" height="50" /></td>
+      <td><img src="[appFiles/ourPhotos/aymilaPhoto.jpg](https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/atifPhoto.jpg)" width="50" height="50" /></td>
       <td>Aymila Cevher</td>
       <td>Scrum Master</td>
       <td>
