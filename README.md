@@ -13,7 +13,7 @@
       <th>Ağlar</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/aycaFoto.png" width="50" height="50" /></td>
+      <td><img src="https://github.com/Akemeyn/group3flutter/assets/92996934/715f0777-200b-433e-8077-90e6370c3e7e" width="50" height="50" /></td>
       <td>Ayça Soyubelli</td>
       <td>Scrum Master</td>
       <td>
