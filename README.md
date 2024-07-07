@@ -101,9 +101,6 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 - Meşgul çalışanlar: Diyetisyene gidecek zamanı bulamayan insanlar. Çalışma biçiminin sağlıklı beslenmeye etkisi hakkında bir makaleye göre vardiya sisteminde çalışan insanlar sağlıksız ve paketli gıdalarla beslenmeye daha yatkındır. Uygulama sayesinde paketli gıdalarla beslenseler bile en sağlıklı alternatifi tercih edebilirler.
 - Diyetisyenler: Diyet listesi hazırlarken faydalanabilirler. İleri dönemde diyetisyenlere ayrı profil etiketi verilerek kendi tariflerini yayımlamaları sağlanacaktır.
 
-## Product Backlog URL
-<a href="https://trello.com/invite/b/vsYWxG2j/ATTI8b8c4f6c3c24a836339e4b87b47360d450C92F52/sprint-1">Trello Davet Linki</a>
-
 
 <details> 
     <summary><h1>Sprint 1</h1></summary>
@@ -181,3 +178,6 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 </details>
 
 ---
+
+## Product Backlog URL
+<a href="https://trello.com/invite/b/vsYWxG2j/ATTI8b8c4f6c3c24a836339e4b87b47360d450C92F52/sprint-1">Trello Davet Linki</a>
