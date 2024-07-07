@@ -6,15 +6,59 @@
 ### **`Team A`**
 
 ## Takım Üyeleri
-
-
-|  | İsim     | Rol                       | Sosyal Araçlar|
-| :- | :- | :- | :- |
-| | Ayça Soyubelli | Scrum Master | |
-| | Aymilla Cevher | Scrum Master | |
-| | Atıf Eren Yarıkan | Product Owner | |
-| | Alper Açıkgöz | Developer | |
-| | Ali Suntur | Developer | |
+<table>
+    <tr>
+      <th></th>
+      <th>İsim</th>
+      <th>Rol</th>
+      <th>Ağlar</th>
+    </tr>
+    <tr>
+      <td><img src="" width="50" height="50" /></td>
+      <td>Ayça Soyubelli</td>
+      <td>Scrum Master</td>
+      <td>
+        <a href="" target="_blank"><img src="" width="20" height="20"/></a>
+        <a href="" target="_blank" ><img src="" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="" width="50" height="50" /></td>
+      <td>Aymila Cevher</td>
+      <td>Scrum Master</td>
+      <td>
+        <a href="" target="_blank"><img src="" width="20" height="20"/></a>
+        <a href="" target="_blank"><img src="" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="" width="50" height="50" /></td>
+      <td>Atıf Eren Yarıkan</td>
+      <td>Product Owner</td>
+      <td>
+        <a href="" target="_blank"><img src="" width="20" height="20"/></a>
+        <a href="" target="_blank"><img src="" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="" width="50" height="50" /></td>
+      <td>Ali Suntur</td>
+      <td>Developer</td>
+      <td>
+        <a href="" target="_blank"><img src="" width="20" height="20"/></a>
+        <a href="" target="_blank"><img src="" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="" width="50" height="50" /></td>
+      <td>Alper Açıkgöz</td>
+      <td>Developer</td>
+      <td>
+        <a href="" target="_blank"><img src="" width="20" height="20"/></a>
+        <a href="" target="_blank"><img src="" width="20" height="20" /></a>
+      </td>
+    </tr>
+  </table>
 
 # Ürün İle İlgili Bilgiler
 
