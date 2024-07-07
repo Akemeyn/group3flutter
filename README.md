@@ -75,7 +75,7 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 ## Ürün Özellikleri
 
 - İçerik Okuma ve Puanlama
-1. Barkod Okuma ve Veri Girişi: Barkod okuma veya doğrudan veri girişi yoluyla içerik 2. bilgisi edinme.
+1. Barkod Okuma ve Veri Girişi: Barkod okuma veya doğrudan veri girişi yoluyla içerik bilgisi edinme.
 2. Profilsiz Erişim: Kullanıcılar profil oluşturmadan uygulamayı kullanabilir.
 3. Gelecekte Gelişim: Gelecekte görüntü işleme ile daha da geliştirilmesi planlanmakta.
 
@@ -158,6 +158,13 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 + Takımda kişisel yoğunlukları olan üyeler vardı ama iyi bir görev dağılımı yaparak bunun üstesinden geldik. takımca iletişimi hiç koparmadık.
 
 ### Sprint Retroprospektifi
+
++ İkinci sprint içerisinde yapım aşamasında olan ekranlar tamamlanacak. (ChatBot, Profil ekranı)
++ İkinci sprint içerisinde firebase bağlanılacak.
++ İkinci sprint içerisinde Cloud sistemi olarak Firestore üzerinde çalışılacak.
++ Barkod okuma özelliği için flutter ile kamera entegrasyonu kullanımı öğrenilecek.
++ Kayıt ol ekranı içerisinde google ile giriş yap seçeneği eklenecek.
+
 
 </details>
 
