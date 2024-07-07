@@ -10,11 +10,11 @@
 
 |  | İsim     | Rol                       | Sosyal Araçlar|
 | :- | :- | :- | :- |
-| | `Ayça Soyubelli` | Scrum Master / Developer | |
-| | `Aymilla Cevher` | Scrum Master / Developer | |
-| | `Atıf Eren Yarıkan` | Product Owner / Developer | |
-| | `Alper Açıkgöz` | Developer | |
-| | `Ali Suntur` | Developer | |
+|![aycaPhoto](https://github.com/Akemeyn/group3flutter/blob/main/appFiles/ourPhotos/aycaPhoto.jpg) | Ayça Soyubelli | Scrum Master | |
+| | Aymilla Cevher | Scrum Master | |
+| | Atıf Eren Yarıkan | Product Owner | |
+| | Alper Açıkgöz | Developer | |
+| | Ali Suntur | Developer | |
 
 # Ürün İle İlgili Bilgiler
 
