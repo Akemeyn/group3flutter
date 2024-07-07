@@ -1,5 +1,4 @@
-![NutriJourney](https://github.com/Akemeyn/group3flutter/blob/main/appFiles/readmeImages/nutriJourney.png)
-
+![[NutriJourney](https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/readmeImages/nutriJourney.png)
 
 # Takım İsmi
 
