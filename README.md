@@ -103,24 +103,42 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 ## Product Backlog URL
 
+---
 
 <details>
   <summary><h1>Sprint 1</h1></summary>
 
 
 ### Sprint Notları
-+ <b>Proje yönetimi aracı olarak `Trello` kullanılmaya karar verildi</b>
-+ <b>Tasarım aracı olarak `Figma` kullanılmaya karar verildi</b>
-+ <b>Veritabanı için `Firebase` kullanılmaya karar verildi</b>
-+ <b>Page routing için `GetX` kullanılmaya karar verildi</b>
-+ <b>State management için `Block` ve `GetX` kullanılmaya karar verildi</b>
-+ <b>Kullanıcı girişi `kullanıcı adı` yöntemi ile gerçekleşecek</b>
-+ <b>Figma’dan sağlıklı yaşam uygulaması tasarımı seçildi</b>
-+ <b>Görevin alacağı her 1 gün için 10 puan atamaya karar verildi</b>
-+ <b>Logo ve `NutriMate` tasarımı yapıldı – elma logosuna karar verildi</b>
++ <b>Günlük konuşmalar ve çevrim içi toplantılar için `Discord` ve `Whatsapp` kullanılmaya karar verildi.</b>
++ <b>Proje yönetimi aracı olarak `Trello` kullanılmaya karar verildi.</b>
++ <b>Tasarım aracı olarak `Figma` kullanılmaya karar verildi.</b>
++ <b>Veritabanı için `Firebase` kullanılmaya karar verildi.</b>
++ <b>Page routing için `GetX` kullanılmaya karar verildi.</b>
++ <b>State management için `Block` ve `GetX` kullanılmaya karar verildi.</b>
++ <b>Kullanıcı girişi `kullanıcı adı` yöntemi ile gerçekleşecek.</b>
++ <b>Figma’dan sağlıklı yaşam uygulaması tasarımı seçildi.</b>
++ <b>Görevin alacağı her 1 gün için 10 puan atamaya karar verildi.</b>
++ <b>Logo ve `NutriMate` tasarımı yapıldı – elma logosuna karar verildi.</b>
 
+<details> <summary><h3>Sprint 1 - Uygulama Ekran Görüntüleri</h3></summary>
+![appSS](https://github.com/Akemeyn/group3flutter/assets/92996934/0bbd687e-c560-412f-a08c-d3816191ef8a)
+    
 </details>
 
+<details> <summary><h3>Sprint 1 - Sprint Tahtası</h3></summary>
+    ![sprintBoard](https://github.com/Akemeyn/group3flutter/assets/92996934/30f04ba1-44d7-4b3c-ab61-31c757f8f049)
+
+    
+</details>
+
+### Sprint Yorumları
+
+### Sprint İzlenimleri
+
+### Sprint Retroprospektifi
+
+</details>
 ---
 
 <details>
