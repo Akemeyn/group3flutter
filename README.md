@@ -14,7 +14,7 @@
       <th>Ağlar</th>
     </tr>
     <tr>
-      <td><img src="" width="50" height="50" /></td>
+      <td><img src="appFiles/ourPhotos/aycaPhoto.jpg" width="50" height="50" /></td>
       <td>Ayça Soyubelli</td>
       <td>Scrum Master</td>
       <td>
@@ -23,7 +23,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="" width="50" height="50" /></td>
+      <td><img src="appFiles/ourPhotos/aymilaPhoto.jpg" width="50" height="50" /></td>
       <td>Aymila Cevher</td>
       <td>Scrum Master</td>
       <td>
@@ -32,7 +32,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="" width="50" height="50" /></td>
+      <td><img src="appFiles/ourPhotos/atifPhoto.jpg" width="50" height="50" /></td>
       <td>Atıf Eren Yarıkan</td>
       <td>Product Owner</td>
       <td>
