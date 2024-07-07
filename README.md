@@ -146,12 +146,17 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 ### Sprint Yorumları
 
++ İlk sprint içerisinde logoya karar vermek istiyorduk fakat kararsız kaldığımız için bu sprintte logoya karar veremedik.
++ Giriş ve diğer ekranların tasarımlarını ve kodlamasını tamamlamak büyük bir kilometre taşıydı.
++ Yapay zeka botu ekranı ve kodlamasına başlamak heyecan verici bir sonraki adımımızdı.
++ Uygulama fikrimizi ekip olarak çok beğendik.
+
 ### Sprint İzlenimleri
 
 + Atıf ve Ali giriş ve ana sayfa ekranını kalori hesaplama ara yüzlerini tamamladılar. Yapay zeka botunun ara yüzüne başlandı.
 + Birçok seçenek arasından `NutriJourney` uygulama ismine karar verdik yapay zeka eklentisi için de bir isim ve bir logo hazırladık.
 + Ortak alınan kararla renk paletine karar verdik, logo için öneriler sunduk ama henüz tamamlamadık.
-+ Page Routing ve State Managment olarak `GetX'i` kullandık. Navigator ve Riverpod'a göre daha anlaşılır ve daha kolay bir kullanımı mevcut.
++ Page Routing ve State Management olarak `GetX'i` kullandık. Navigator ve Riverpod'a göre daha anlaşılır ve daha kolay bir kullanımı mevcut.
 + Takımda kişisel yoğunlukları olan üyeler vardı ama iyi bir görev dağılımı yaparak bunun üstesinden geldik. takımca iletişimi hiç koparmadık.
 
 ### Sprint Retroprospektifi
