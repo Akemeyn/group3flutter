@@ -35,8 +35,8 @@
       <td>Atıf Eren Yarıkan</td>
       <td>Product Owner</td>
       <td>
-        <a href="" target="_blank"><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/readmeImages/linkedin.png" width="20" height="20"/></a>
-        <a href="" target="_blank"><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/readmeImages/github.png" width="20" height="20" /></a>
+        <a href="https://www.linkedin.com/in/at%C4%B1f-eren-yar%C4%B1kan/" target="_blank"><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/readmeImages/linkedin.png" width="20" height="20"/></a>
+        <a href="https://github.com/Akemeyn" target="_blank"><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/readmeImages/github.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
