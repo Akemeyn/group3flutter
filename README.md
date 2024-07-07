@@ -18,8 +18,8 @@
       <td>Ayça Soyubelli</td>
       <td>Scrum Master</td>
       <td>
-        <a href="" target="_blank"><img src="" width="20" height="20"/></a>
-        <a href="" target="_blank" ><img src="" width="20" height="20" /></a>
+        <a href="" target="_blank"><img src="appFiles/readmeImages/linkedin.png" width="20" height="20"/></a>
+        <a href="" target="_blank" ><img src="appFiles/readmeImages/github.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
@@ -27,8 +27,8 @@
       <td>Aymila Cevher</td>
       <td>Scrum Master</td>
       <td>
-        <a href="" target="_blank"><img src="" width="20" height="20"/></a>
-        <a href="" target="_blank"><img src="" width="20" height="20" /></a>
+        <a href="" target="_blank"><img src="appFiles/readmeImages/linkedin.png" width="20" height="20"/></a>
+        <a href="" target="_blank"><img src="appFiles/readmeImages/github.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
@@ -36,8 +36,8 @@
       <td>Atıf Eren Yarıkan</td>
       <td>Product Owner</td>
       <td>
-        <a href="" target="_blank"><img src="" width="20" height="20"/></a>
-        <a href="" target="_blank"><img src="" width="20" height="20" /></a>
+        <a href="" target="_blank"><img src="appFiles/readmeImages/linkedin.png" width="20" height="20"/></a>
+        <a href="" target="_blank"><img src="appFiles/readmeImages/github.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
@@ -45,8 +45,8 @@
       <td>Ali Suntur</td>
       <td>Developer</td>
       <td>
-        <a href="" target="_blank"><img src="" width="20" height="20"/></a>
-        <a href="" target="_blank"><img src="" width="20" height="20" /></a>
+        <a href="" target="_blank"><img src="appFiles/readmeImages/linkedin.png" width="20" height="20"/></a>
+        <a href="" target="_blank"><img src="appFiles/readmeImages/github.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
@@ -54,8 +54,8 @@
       <td>Alper Açıkgöz</td>
       <td>Developer</td>
       <td>
-        <a href="" target="_blank"><img src="" width="20" height="20"/></a>
-        <a href="" target="_blank"><img src="" width="20" height="20" /></a>
+        <a href="" target="_blank"><img src="appFiles/readmeImages/linkedin.png" width="20" height="20"/></a>
+        <a href="" target="_blank"><img src="appFiles/readmeImages/github.png" width="20" height="20" /></a>
       </td>
     </tr>
   </table>
