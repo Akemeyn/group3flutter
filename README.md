@@ -106,3 +106,31 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 <details>
   <summary><h1>Sprint 1</h1></summary>
+
+
+### Sprint Notları
++ <b>Proje yönetimi aracı olarak `Trello` kullanılmaya karar verildi</b>
++ <b>Tasarım aracı olarak `Figma` kullanılmaya karar verildi</b>
++ <b>Veritabanı için `Firebase` kullanılmaya karar verildi</b>
++ <b>Page routing için `GetX` kullanılmaya karar verildi</b>
++ <b>State management için `Block` ve `GetX` kullanılmaya karar verildi</b>
++ <b>Kullanıcı girişi `kullanıcı adı` yöntemi ile gerçekleşecek</b>
++ <b>Figma’dan sağlıklı yaşam uygulaması tasarımı seçildi</b>
++ <b>Görevin alacağı her 1 gün için 10 puan atamaya karar verildi</b>
++ <b>Logo ve `NutriMate` tasarımı yapıldı – elma logosuna karar verildi</b>
+
+</details>
+
+---
+
+<details>
+  <summary><h1>Sprint 2</h1></summary>
+</details>
+
+---
+
+<details>
+  <summary><h1>Sprint 3</h1></summary>
+</details>
+
+---
