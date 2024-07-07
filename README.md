@@ -116,7 +116,6 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 + <b>State management için `Block` ve `GetX` kullanılmaya karar verildi.</b>
 + <b>Kullanıcı girişi `kullanıcı adı` yöntemi ile gerçekleşecek.</b>
 + <b>Figma’dan sağlıklı yaşam uygulaması tasarımı seçildi.</b>
-+ <b>Görevin alacağı her 1 gün için 10 puan atamaya karar verildi.</b>
 + <b>Logo ve `NutriMate` tasarımı yapıldı – elma logosuna karar verildi.</b>
 
 <details> <summary><h3>Sprint 1 - Uygulama Ekran Görüntüleri</h3></summary>
@@ -130,6 +129,19 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 
 </details>
+
+<details> <summary><h3>Sprint 1 - Sprint Puanlaması </h3></summary>
+    
++ <b>Görevin alacağı her 1 gün için 10 puan atamaya karar verildi.</b>
+
+</details>
+
+<details> <summary><h3>Sprint 1 - Günlük Scrum </h3></summary>
+    
+![dailyscrum](https://github.com/Akemeyn/group3flutter/assets/92996934/62e6f8ce-668c-48ba-a858-4870bcf2d1f3)
+
+</details>
+
 
 ### Sprint Yorumları
 
