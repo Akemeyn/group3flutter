@@ -95,11 +95,11 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 ## Hedef Kitle
 
-- Daha belirlenmedi
-- Daha belirlenmedi
-- Daha belirlenmedi
-- Daha belirlenmedi
-- Daha belirlenmedi
+- Bilinçli Tüketiciler: Tükettiği gıdaların içeriklerini inceleyen beslenme bilincine sahip insanlar. Bununla birlikte bilinçli tüketici olmak isteyen ama bunu nasıl yapacağını bilmeyen insanlar da bu gruba dahildir.
+- Ebeveynler: Çocuğu olan ve çocuğunu sağlıklı beslemek isteyen insanlar.
+- Sağlık sorunu yaşayanlar: Beslenme alerjisi olan insanlar (çölyak, laktoz intoleransı vs). Alerjen grubuna göre ürünleri listeleyen bir platfom olmaması. Varsa da erişilebilir olmaması.
+- Meşgul çalışanlar: Diyetisyene gidecek zamanı bulamayan insanlar. Çalışma biçiminin sağlıklı beslenmeye etkisi hakkında bir makaleye göre vardiya sisteminde çalışan insanlar sağlıksız ve paketli gıdalarla beslenmeye daha yatkındır. Uygulama sayesinde paketli gıdalarla beslenseler bile en sağlıklı alternatifi tercih edebilirler.
+- Diyetisyenler: Diyet listesi hazırlarken faydalanabilirler. İleri dönemde diyetisyenlere ayrı profil etiketi verilerek kendi tariflerini yayımlamaları sağlanacaktır.
 
 ## Product Backlog URL
 
