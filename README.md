@@ -10,7 +10,7 @@
 
 |  | İsim     | Rol                       | Sosyal Araçlar|
 | :- | :- | :- | :- |
-|![aycaPhoto](https://github.com/Akemeyn/group3flutter/blob/main/appFiles/ourPhotos/aycaPhoto.jpg) | Ayça Soyubelli | Scrum Master | |
+| | Ayça Soyubelli | Scrum Master | |
 | | Aymilla Cevher | Scrum Master | |
 | | Atıf Eren Yarıkan | Product Owner | |
 | | Alper Açıkgöz | Developer | |
