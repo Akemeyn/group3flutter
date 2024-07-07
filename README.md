@@ -13,7 +13,7 @@
       <th>Ağlar</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/aycaPhoto.jpg" width="50" height="50" /></td>
+      <td><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/aycaFoto.png" width="50" height="50" /></td>
       <td>Ayça Soyubelli</td>
       <td>Scrum Master</td>
       <td>
@@ -22,7 +22,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/aymilaPhoto.jpg" width="50" height="50" /></td>
+      <td><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/aymilaFoto.png" width="50" height="50" /></td>
       <td>Aymila Cevher</td>
       <td>Scrum Master</td>
       <td>
@@ -31,7 +31,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/atifPhoto.jpg" width="50" height="50" /></td>
+      <td><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/atifFoto.png" width="50" height="50" /></td>
       <td>Atıf Eren Yarıkan</td>
       <td>Product Owner</td>
       <td>
@@ -40,7 +40,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="" width="50" height="50" /></td>
+      <td><img src="https://github.com/Akemeyn/group3flutter_private/blob/main/appFiles/ourPhotos/aliFoto.png" width="50" height="50" /></td>
       <td>Ali Suntur</td>
       <td>Developer</td>
       <td>
