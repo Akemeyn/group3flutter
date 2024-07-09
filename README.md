@@ -139,6 +139,7 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 <details> <summary><h3>Sprint 1 - Günlük Scrum </h3></summary>
     + <b>3 günde bir yaptığımız online scrumlarımızdan bir görüntü.</b>
+    
 ![dailyscrum](https://github.com/Akemeyn/group3flutter/assets/92996934/62e6f8ce-668c-48ba-a858-4870bcf2d1f3)
 
 </details>
