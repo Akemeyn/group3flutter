@@ -175,6 +175,35 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 <details>
   <summary><h1>Sprint 2</h1></summary>
+
+### Sprint Notları
+
+<details> <summary><h3>Sprint 1 - Uygulama Ekran Görüntüleri</h3></summary>
+
+    
+</details>
+
+<details> <summary><h3>Sprint 1 - Sprint Tahtası</h3></summary>
+
+
+</details>
+
+<details> <summary><h3>Sprint 1 - Sprint Puanlaması </h3></summary>
+    
+
+</details>
+
+<details> <summary><h3>Sprint 1 - Günlük Scrum </h3></summary>
+    
+
+</details>
+
+### Sprint Yorumları
+
+### Sprint İzlenimleri
+
+### Sprint Retroprospektifi
+
 </details>
 
 ---
