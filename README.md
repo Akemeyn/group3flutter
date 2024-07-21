@@ -235,3 +235,4 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 ## Product Backlog URL
 <a href="https://trello.com/invite/b/vsYWxG2j/ATTI8b8c4f6c3c24a836339e4b87b47360d450C92F52/sprint-1">Trello Davet Linki - Sprint 1</a>
+<a href="https://trello.com/invite/b/667d9ff67a9f92ecaaf39eef/ATTIde08cc4252b7906b15c9d84788937579D3F4EBD3/sprint-2">Trello Davet Linki - Sprint 2</a>
