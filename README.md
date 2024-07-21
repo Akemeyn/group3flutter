@@ -178,7 +178,7 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 ### Sprint Notları
 
-<details> <summary><h3>Sprint 1 - Uygulama Ekran Görüntüleri</h3></summary>
+<details> <summary><h3>Sprint 2 - Uygulama Ekran Görüntüleri</h3></summary>
 
 ![uygulamaEkranGoruntuleri](https://github.com/user-attachments/assets/44857339-9ca4-49a5-92a5-15043e74e42e)
 
@@ -186,7 +186,7 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
     
 </details>
 
-<details> <summary><h3>Sprint 1 - Sprint Tahtası</h3></summary>
+<details> <summary><h3>Sprint 2 - Sprint Tahtası</h3></summary>
 
 ![Ekran görüntüsü 2024-07-21 213731](https://github.com/user-attachments/assets/1ce8a20c-c8f2-4cc6-83b2-a952c05fe918)
 
@@ -194,12 +194,16 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 </details>
 
 <details> <summary><h3>Sprint 1 - Sprint Puanlaması </h3></summary>
-    
+
++ <b>Bu sprinte hedef olarak `180` puan koyduk. </b>
++ <b>Bu sprint toplam `150` puan topladık ve hedefimize başarıyla ulaşamadık. </b>
 
 </details>
 
-<details> <summary><h3>Sprint 1 - Günlük Scrum </h3></summary>
-    
+<details> <summary><h3>Sprint 2 - Günlük Scrum </h3></summary>
+
+![Ekran görüntüsü 2024-07-21 220457](https://github.com/user-attachments/assets/3b5d24fd-4b50-41b9-9baf-0c47025bd04d)
+
 
 </details>
 
