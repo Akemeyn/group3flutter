@@ -221,17 +221,17 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 ### Sprint İzlenimleri
 
-+ <b>Ekran tasarımları tamamlandı.</b>
-+ <b>Yapay zekâ kısmı henüz tamamlanmadı ancak içerik listesi ve puanlama mantığı tamamlandı.</b>
-+ <b>`NutriMate` senaryoları belirlendi.</b>
++ Ekran tasarımları tamamlandı.
++ Yapay zekâ kısmı henüz tamamlanmadı ancak içerik listesi ve puanlama mantığı tamamlandı.
++ `NutriMate` senaryoları belirlendi.
 
 ### Sprint Retroprospektifi
 
-+ <b>Hedeflediğimiz 180 puanın 150’sini gerçekleştirdik.</b>
-+ <b>Sprint planlamasını yeterince iyi yapamadık. Önümüzdeki sprint için görevleri daha detaylı halde yazacağız.</b>
-+ <b>Planlama yeterince iyi yapılmadığı için yapay zekâ eğitimi ve ekranların birbirine bağlanması yetişmedi.</b>
-+ <b>Yapay zekânın entegre edilmesi beklenilenden daha zorlu bir hedefti. Hedeflerimizi daha tutarlı belirlemeliyiz.</b>
-+ <b>Birinci sprintte iyileştirmek istediğimiz bazı şeyleri iyileştirdik.</b>
++ Hedeflediğimiz 180 puanın 150’sini gerçekleştirdik.
++ Sprint planlamasını yeterince iyi yapamadık. Önümüzdeki sprint için görevleri daha detaylı halde yazacağız.
++ Planlama yeterince iyi yapılmadığı için yapay zekâ eğitimi ve ekranların birbirine bağlanması yetişmedi.
++ Yapay zekânın entegre edilmesi beklenilenden daha zorlu bir hedefti. Hedeflerimizi daha tutarlı belirlemeliyiz.
++ Birinci sprintte iyileştirmek istediğimiz bazı şeyleri iyileştirdik.
 
 </details>
 
