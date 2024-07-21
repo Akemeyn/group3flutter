@@ -181,7 +181,7 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 + <b>Uygulamamızın logosuna karar verildi.</b>
 + <b>Yapay zeka botunun senaryolarını planladık ve ekranlarını oluşturuldu.</b>
 + <b>Profil ekranı ve giriş ekranı oluşturuldu.</b>
-+ <b>Firebase bağlandı.</b>
++ <b>`Firebase` bağlandı.</b>
 + <b>Barkod okuma ve kamera kullanımı aktifleştirildi.</b>
 + <b>Tarif sayfası oluşturuldu.</b>
 
@@ -210,6 +210,9 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 </details>
 
 <details> <summary><h3>Sprint 2 - Günlük Scrum </h3></summary>
+    
++ <b>3 günde bir yaptığımız online scrumlarımızdan bir görüntü. </b>
++ <b>Bu sprintte toplam 5 scrum yaptık. </b>
 
 ![Ekran görüntüsü 2024-07-21 220457](https://github.com/user-attachments/assets/3b5d24fd-4b50-41b9-9baf-0c47025bd04d)
 
