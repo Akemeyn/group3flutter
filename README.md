@@ -178,6 +178,11 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 ### Sprint Notları
 
++ <b>Ekran tasarımları tamamlandı.</b>
++ <b>Yapay zekâ kısmı henüz tamamlanmadı ancak içerik listesi ve puanlama mantığı tamamlandı.</b>
++ <b>`NutriMate` senaryoları belirlendi.</b>
+
+
 <details> <summary><h3>Sprint 2 - Uygulama Ekran Görüntüleri</h3></summary>
 
 ![uygulamaEkranGoruntuleri](https://github.com/user-attachments/assets/44857339-9ca4-49a5-92a5-15043e74e42e)
@@ -193,7 +198,7 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 </details>
 
-<details> <summary><h3>Sprint 1 - Sprint Puanlaması </h3></summary>
+<details> <summary><h3>Sprint 2 - Sprint Puanlaması </h3></summary>
 
 + <b>Bu sprinte hedef olarak `180` puan koyduk. </b>
 + <b>Bu sprint toplam `150` puan topladık ve hedefimize başarıyla ulaşamadık. </b>
@@ -213,6 +218,11 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 ### Sprint Retroprospektifi
 
++ <b>Sprint planlamasını yeterince iyi yapamadık. Önümüzdeki sprint için görevleri daha detaylı halde yazacağız.</b>
++ <b>Planlama yeterince iyi yapılmadığı için yapay zekâ eğitimi ve ekranların birbirine bağlanması yetişmedi.</b>
++ <b>Yapay zekânın entegre edilmesi beklenilenden daha zorlu bir hedefti. Hedeflerimizi daha tutarlı belirlemeliyiz.</b>
++ <b>Birinci sprintte iyileştirmek istediğimiz bazı şeyleri iyileştirdik.</b>
+
 </details>
 
 ---
@@ -224,4 +234,4 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 ---
 
 ## Product Backlog URL
-<a href="https://trello.com/invite/b/vsYWxG2j/ATTI8b8c4f6c3c24a836339e4b87b47360d450C92F52/sprint-1">Trello Davet Linki</a>
+<a href="https://trello.com/invite/b/vsYWxG2j/ATTI8b8c4f6c3c24a836339e4b87b47360d450C92F52/sprint-1">Trello Davet Linki - Sprint 1</a>
