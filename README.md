@@ -178,9 +178,12 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 ### Sprint Notları
 
-+ <b>Ekran tasarımları tamamlandı.</b>
-+ <b>Yapay zekâ kısmı henüz tamamlanmadı ancak içerik listesi ve puanlama mantığı tamamlandı.</b>
-+ <b>`NutriMate` senaryoları belirlendi.</b>
++ <b>Uygulamamızın logosuna karar verildi.</b>
++ <b>Yapay zeka botunun senaryolarını planladık ve ekranlarını oluşturuldu.</b>
++ <b>Profil ekranı ve giriş ekranı oluşturuldu.</b>
++ <b>Firebase bağlandı.</b>
++ <b>Barkod okuma ve kamera kullanımı aktifleştirildi.</b>
++ <b>Tarif sayfası oluşturuldu.</b>
 
 
 <details> <summary><h3>Sprint 2 - Uygulama Ekran Görüntüleri</h3></summary>
@@ -200,8 +203,9 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 <details> <summary><h3>Sprint 2 - Sprint Puanlaması </h3></summary>
 
-+ <b>Bu sprinte hedef olarak `180` puan koyduk. </b>
-+ <b>Bu sprint toplam `150` puan topladık ve hedefimize başarıyla ulaşamadık. </b>
++ <b>Hedef puan: 180 puan. </b>
++ <b>Puanlama mantığı: Önceki sprintte belirlediğimiz üzere bir iş günü 5 puan, haftalık 5 iş gününden haftalık kişi başı 25 puanlık iş gücü bulunmaktadır. Bazı takım üyelerinin şehir dışı, seyahat gibi iş gücü kısıtlarından dolayı bu sprintte 180 puanlık iş tamamlamayı hedefledik.</b>
+
 
 </details>
 
@@ -212,12 +216,15 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 </details>
 
-### Sprint Yorumları
-
 ### Sprint İzlenimleri
+
++ <b>Ekran tasarımları tamamlandı.</b>
++ <b>Yapay zekâ kısmı henüz tamamlanmadı ancak içerik listesi ve puanlama mantığı tamamlandı.</b>
++ <b>`NutriMate` senaryoları belirlendi.</b>
 
 ### Sprint Retroprospektifi
 
++ <b>Hedeflediğimiz 180 puanın 150’sini gerçekleştirdik.</b>
 + <b>Sprint planlamasını yeterince iyi yapamadık. Önümüzdeki sprint için görevleri daha detaylı halde yazacağız.</b>
 + <b>Planlama yeterince iyi yapılmadığı için yapay zekâ eğitimi ve ekranların birbirine bağlanması yetişmedi.</b>
 + <b>Yapay zekânın entegre edilmesi beklenilenden daha zorlu bir hedefti. Hedeflerimizi daha tutarlı belirlemeliyiz.</b>
