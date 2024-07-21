@@ -180,10 +180,15 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 <details> <summary><h3>Sprint 1 - Uygulama Ekran Görüntüleri</h3></summary>
 
+![uygulamaEkranGoruntuleri](https://github.com/user-attachments/assets/44857339-9ca4-49a5-92a5-15043e74e42e)
+
+
     
 </details>
 
 <details> <summary><h3>Sprint 1 - Sprint Tahtası</h3></summary>
+
+![Ekran görüntüsü 2024-07-21 213731](https://github.com/user-attachments/assets/1ce8a20c-c8f2-4cc6-83b2-a952c05fe918)
 
 
 </details>
