@@ -250,6 +250,7 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 + <b>Tanıtım videosu çekildi.</b>
 
 <details> <summary><h3>Sprint 3 - Uygulama Ekran Görüntüleri</h3></summary>
+    
 ![uygulamagoruntuler](https://github.com/user-attachments/assets/6f76f4af-6bd9-4413-b16f-980939ddb6c0)
 
     
