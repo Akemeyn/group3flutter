@@ -1,5 +1,6 @@
 
-![nutriJourney-github](https://github.com/user-attachments/assets/b706c9e3-05df-4978-89b7-5acb375580fc)
+
+![nutriJourney](https://github.com/user-attachments/assets/918c3fe3-abed-4ed1-b2a6-64675bad6569)
 
 
 
