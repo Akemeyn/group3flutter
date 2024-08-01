@@ -275,6 +275,12 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 <details> <summary><h3>Sprint 3 - Günlük Scrum </h3></summary>
 
++ <b>Bu sprint içerisinde 3 günde bir scrum yaptık. </b>
++ <b>Bu sprintte toplam 3 scrum yaptık. </b>
++ <b>Diğer sprintlere göre daha az scrum yapmamızın sebebi bu scrum içerisinde bazı özel sebeplerden ötürü tam anlamıyla katılımı sağlayamadık. </b>
+
+![image](https://github.com/user-attachments/assets/69c338f9-b29e-4418-9e15-06a7453f855c)
+
 
 </details>
 
