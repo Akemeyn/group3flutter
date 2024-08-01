@@ -1,5 +1,6 @@
 
-![nutriJourney](https://github.com/Akemeyn/group3flutter/assets/92996934/d4c008f7-911f-425e-b76b-6fde2ab07b24)
+![nutriJourney-github](https://github.com/user-attachments/assets/3fd9281a-cf8a-4874-85c0-7dc4965402da)
+
 
 # Takım İsmi
 
@@ -239,6 +240,49 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 
 <details>
   <summary><h1>Sprint 3</h1></summary>
+
+### Sprint Notları
+
++ <b>Uygulama içerisine son resimler seçilip konuldu.</b>
++ <b>Yapay zeka son haline geldi.</b>
++ <b>Su takibi kısmı hesaplanıp aktif hale getirildi.</b>
++ <b>`NutriMate` üzerinden tarif ekranına geçiş tamamlandı.</b>
++ <b>Tanıtım videosu çekildi.</b>
+
+<details> <summary><h3>Sprint 3 - Uygulama Ekran Görüntüleri</h3></summary>
+![uygulamagoruntuler](https://github.com/user-attachments/assets/6f76f4af-6bd9-4413-b16f-980939ddb6c0)
+
+    
+</details>
+
+<details> <summary><h3>Sprint 3 - Sprint Puanlaması </h3></summary>
+
++ <b>Sprint içinde tamamlanması beklenen puan: `205`</b>
++ <b>Puanlama mantığı: Bu sprint daha kısa olduğu için haftamızı üç farklı aşamaya bölüp bu zaman diliminde yapılacakları belirledik .Kişi başı ortalama 40 puan bulmayı hedefledik .Bu hafta vakit ayıramayan ekip arkadaşlarımız oldu.</b>
+
+</details>
+
+<details> <summary><h3>Sprint 3 - Günlük Scrum </h3></summary>
+
+
+</details>
+
+### Sprint İzlenimleri
+
++ Uygulamamızı teslim etmeden önceki son haline getirdik.
++ Sohbet robotuna son güncellemeler yapıldı.
++ Planlanan bazı eklentiler yapılamadı.
++ Tanıtım videosunu çekip seslendirip editledik.
+
+### Sprint Retroprospektifi
+
++ Hedeflenen 205 puanın 165 ini gerçekleştirebildik.
++ Geçen haftaya göre planlamamız daha iyiydi ama uygulamamızı son hale getirip dene aşamasını gerçekleştiremedik.
++ Son eksikler tahmin ettiğimizden daha uzun sürede bitti.
++ Düzenlemeleri yapıp olabildiğinin en iyisi haline getirdik, tanıtım videosunu çekip teslim edilebilir hale getirdik.
++ Kişisel yoğunluklardan katkı veremeyen arkadaşlarımızda oldu istenen hedef puanın tamamlanamama sebeplerinden biri de bu.
+
+
 </details>
 
 ---
