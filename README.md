@@ -1,5 +1,6 @@
 
-![nutriJourney-github](https://github.com/user-attachments/assets/3fd9281a-cf8a-4874-85c0-7dc4965402da)
+![nutriJourney-github](https://github.com/user-attachments/assets/b706c9e3-05df-4978-89b7-5acb375580fc)
+
 
 
 # Takım İsmi
