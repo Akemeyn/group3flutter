@@ -258,6 +258,14 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
     
 </details>
 
+<details> <summary><h3>Sprint 2 - Sprint Tahtası</h3></summary>
+
+![image](https://github.com/user-attachments/assets/cbfd69c4-1f35-414f-bdd3-5f53f4acd917)
+
+
+
+</details>
+
 <details> <summary><h3>Sprint 3 - Sprint Puanlaması </h3></summary>
 
 + <b>Sprint içinde tamamlanması beklenen puan: `205`</b>
@@ -293,3 +301,4 @@ NutriJourney, kullanıcıların sağlıklı yaşam hedeflerine ulaşmalarını d
 ## Product Backlog URL
 + <a href="https://trello.com/invite/b/vsYWxG2j/ATTI8b8c4f6c3c24a836339e4b87b47360d450C92F52/sprint-1">Trello Davet Linki - Sprint 1</a>
 + <a href="https://trello.com/invite/b/667d9ff67a9f92ecaaf39eef/ATTIde08cc4252b7906b15c9d84788937579D3F4EBD3/sprint-2">Trello Davet Linki - Sprint 2</a>
++ <a href="https://trello.com/invite/b/669d5c0024575a46bfe2b1f6/ATTIacca875009a43a5d9370ab2bdf7e3e780F2142D8/sprint-3">Trello Davet Linki - Sprint 3</a>
